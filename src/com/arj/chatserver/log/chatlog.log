@@ -1,0 +1,22 @@
+
+Socket opened at port 9000 on: 29/01/2017 09:11:38.
+
+NEW LOGIN: john(IP: 192.168.1.71) at: 29/01/2017 09:11:44
+29/01/2017 09:11:48 | john says >> anyone home?
+NEW LOGIN: paul(IP: 192.168.1.71) at: 29/01/2017 09:11:53
+29/01/2017 09:11:56 | john says >> hi paul
+29/01/2017 09:11:58 | paul says >> hey john
+29/01/2017 09:12:04 | paul says >> where's roingo?
+29/01/2017 09:12:08 | john says >> not seen him
+29/01/2017 09:12:12 | john says >> must be on his way
+29/01/2017 09:12:13 | paul says >> ok
+NEW LOGIN: ringo(IP: 192.168.1.71) at: 29/01/2017 09:12:17
+29/01/2017 09:12:19 | ringo says >> hi all
+29/01/2017 09:12:22 | ringo says >> #pm john
+29/01/2017 09:12:48 | john says >> #om
+LOG OUT: paul(IP: 192.168.1.71) at: 29/01/2017 09:13:37
+29/01/2017 09:13:48 | john says >> hi
+29/01/2017 09:13:50 | john says >> leaving now
+LOG OUT: john(IP: 192.168.1.71) at: 29/01/2017 09:13:54
+29/01/2017 09:14:05 | ringo says >> ok bye
+LOG OUT: ringo(IP: 192.168.1.71) at: 29/01/2017 09:14:08

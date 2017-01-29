@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/handler/Client.java</file>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/util/SaveToLogFile.java</file>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/command/PrivateMessage.java</file>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/log/PMs_to_john/from_paul.log</file>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/log/chatlog.log</file>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/handler/ClientHandler.java</file>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/Program.java</file>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/handler/ClientListener.java</file>
+            <file>file:/C:/Users/Zeppelin/Documents/NetBeansProjects/ChatServer/src/com/arj/chatserver/log/PMs_to_john/from_ringo.log</file>
+        </group>
+    </open-files>
+</project-private>
